@@ -3,6 +3,4 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = {
-  distDir: 'docs',
-};
+module.exports = nextConfig
