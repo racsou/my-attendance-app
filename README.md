@@ -27,8 +27,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## About the PRojects
 
-Device Reading Card Info
-
+```bash
 [Device Reading Card Info] <---> [User Interface] <---> [Web Application Backend] <---> [Database]
 
                                                                     |
@@ -37,7 +36,7 @@ Device Reading Card Info
                                                         [Administrator Interface]
                                                             [Parents Interface]
 
-
+```
 ## more info
     Device Reading Card Info:
         Represents a physical device capable of reading student ID card information.
