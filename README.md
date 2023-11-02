@@ -25,17 +25,38 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## About the PRojects
 
-To learn more about Next.js, take a look at the following resources:
+Device Reading Card Info
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Device Reading Card Info] <---> [User Interface] <---> [Web Application Backend] <---> [Database]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+                                                                    |
+                                                                    v
 
-## Deploy on Vercel
+                                                        [Administrator Interface]
+                                                            [Parents Interface]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## more info
+    Device Reading Card Info:
+        Represents a physical device capable of reading student ID card information.
+
+    User Interface:
+        Provides an interface for users (students) to input information, possibly through a form where they swipe or input their ID card details.
+
+    Web Application Backend:
+        Manages communication between the user interface, device reading card info, and the database.
+        Handles authentication, attendance recording, and data storage.
+
+    Database:
+        Stores student information, attendance records, and related data.
+
+    Administrator Interface:
+        Provides an interface for administrators to manage student files.
+        Allows administrators to view, edit, and update student attendance records and other related information.
+
+    Parents Interface:
+        Provides an interface for parents to access their child's attendance records.
+        Allows parents to view their child's attendance days, ensuring transparency and communication.
+
