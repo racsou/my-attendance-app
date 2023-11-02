@@ -38,10 +38,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ```
 # more info
-## Device Reading Card Info:
+### Device Reading Card Info:
 Represents a physical device capable of reading student ID card information.
 
-## User Interface:
+### User Interface:
 
 Provides an interface for users (students) to input information, possibly through a form where they swipe or input their ID card details.
 
