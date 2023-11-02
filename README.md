@@ -37,7 +37,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
                                                             [Parents Interface]
 
 ```
-## more info
+# more info
 # Device Reading Card Info:
 Represents a physical device capable of reading student ID card information.
 
