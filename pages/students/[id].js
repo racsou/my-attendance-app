@@ -1,7 +1,8 @@
 import React from 'react';
 
-const id = () => {
-  return <header>Student Attendance System</header>;
+const MyComponent = () => {
+  // Your component logic here
+  return <div>Hello, World!</div>;
 };
 
-export default id;
+export default MyComponent;
