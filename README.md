@@ -45,20 +45,20 @@ Represents a physical device capable of reading student ID card information.
 
 Provides an interface for users (students) to input information, possibly through a form where they swipe or input their ID card details.
 
-## Web Application Backend:
+### Web Application Backend:
 
 Manages communication between the user interface, device reading card info, and the database.
 Handles authentication, attendance recording, and data storage.
 
-## Database:
+### Database:
 Stores student information, attendance records, and related data.
 
-## Administrator Interface:
+### Administrator Interface:
 
 Provides an interface for administrators to manage student files.
 Allows administrators to view, edit, and update student attendance records and other related information.
 
-## Parents Interface:
+### Parents Interface:
 Provides an interface for parents to access their child's attendance records.
 Allows parents to view their child's attendance days, ensuring transparency and communication.
 
